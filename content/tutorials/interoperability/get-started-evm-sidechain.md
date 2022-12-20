@@ -68,7 +68,7 @@ To connect a MetaMask wallet to the bridge, go to the [EVM Sidechain bridge](htt
 Now that both Xumm and MetaMask wallets are connected to the bridge, you can select the direction of the bridge, the amount, and the address to fund.
 
 - **Direction of the bridge**: The direction can be either EVM sidechain → XRP Ledger Devnet or XRP Ledger Devnet → EVM sidechain. Use the “Switch Network” button to switch the direction.
-- **From Amount**: This is the transaction amount. Note that there is a fee to use the bridge.
+- **Amount**: This is the transaction amount. Note that there is a fee to use the bridge.
     - Network fees: The fees required by the network for your transactions.
     - Commission: The bridge applies a commission for every transaction completed. This is to prevent spam and distributed denial of service attacks (DDOS).
 - **To Address**: The address on the chain where you want the funds.
